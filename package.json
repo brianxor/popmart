@@ -1,0 +1,13 @@
+{
+  "name": "popmart",
+  "version": "1.0.0",
+  "description": "Certain utilities to generate certain data.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "@brianxor",
+  "license": "ISC"
+}
